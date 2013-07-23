@@ -1,4 +1,4 @@
-doctrack-issue
+Document Management and Tracking System
 ==============
 
 Current Document Tracking Version is on Beta 0.0.1b
